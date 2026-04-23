@@ -36,7 +36,6 @@ def bubble_sort(number_list):
     plt.show()
     return number_list
 
-# je to hrozny a zbytecne slozity kod ale funguje to a prisla jsem na to sama
 
 
 def main():
